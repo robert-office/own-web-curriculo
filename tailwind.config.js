@@ -14,7 +14,8 @@ module.exports = {
         conhecimentos: "#161B23",
         experiencia: "#262D38",
         educacao: "#3D4652",
-        projetos: "#58667C"
+        projetos: "#58667C",
+        icon: "#2196f3"
       }
     },
   },

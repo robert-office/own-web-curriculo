@@ -18,7 +18,7 @@ interface Props {
 
 export default function ProjetoCard(props: Props) {
     return (
-        <Card sx={{ minWidth: 345 }}>
+        <Card sx={{ minWidth: 345, maxWidth: 345 }}>
             <CardMedia
                 component="img"
                 height="140"
