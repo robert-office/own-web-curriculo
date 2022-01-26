@@ -13,7 +13,8 @@ module.exports = {
         objtivos: '#0D1117',
         conhecimentos: "#161B23",
         experiencia: "#262D38",
-        educacao: "#3D4652"
+        educacao: "#3D4652",
+        projetos: "#58667C"
       }
     },
   },

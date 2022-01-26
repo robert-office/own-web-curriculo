@@ -3,7 +3,7 @@ import { Container } from "../components/Container";
 import "./styles/ExperienciasStyles.css";
 import 'react-vertical-timeline-component/style.min.css';
 import WorkIcon from '@mui/icons-material/Work';
-import HelpIcon from '@mui/icons-material/Help';
+import MoreHorizIcon from '@mui/icons-material/MoreHoriz';
 
 
 const VerticalTimelineConst = require('react-vertical-timeline-component');
@@ -39,8 +39,11 @@ export const ExperienciasSection = () => {
                                 className="vertical-timeline-element--work"
                                 date=""
                                 iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                                icon={<HelpIcon />}
+                                icon={<MoreHorizIcon />}
                             >
+                                <p>
+                                    Buscando vaga como programador full-stack Junior
+                                </p>
                             </VerticalTimelineElement>
                         </VerticalTimeline>
                     </div>

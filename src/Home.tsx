@@ -3,6 +3,7 @@ import { EducacaoSection } from './sections/EducacaoSection';
 import { ExperienciasSection } from './sections/ExperienciasSection';
 import { Header } from './sections/Header';
 import { ObjetivosSection } from './sections/ObjetivosSection';
+import { ProjetosSection } from './sections/ProjetosSection';
 
 function Home() {
   return (
@@ -12,6 +13,7 @@ function Home() {
     <ConhecimentosSection/>
     <ExperienciasSection/>
     <EducacaoSection/>
+    <ProjetosSection/>
     </>
   );
 }
