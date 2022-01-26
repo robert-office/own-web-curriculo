@@ -1,4 +1,5 @@
 import { ConhecimentosSection } from './sections/ConhecimentosSection';
+import { EducacaoSection } from './sections/EducacaoSection';
 import { ExperienciasSection } from './sections/ExperienciasSection';
 import { Header } from './sections/Header';
 import { ObjetivosSection } from './sections/ObjetivosSection';
@@ -10,6 +11,7 @@ function Home() {
     <ObjetivosSection/>
     <ConhecimentosSection/>
     <ExperienciasSection/>
+    <EducacaoSection/>
     </>
   );
 }

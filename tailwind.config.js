@@ -12,7 +12,8 @@ module.exports = {
         bodyHeadeer: "#161B22",
         objtivos: '#0D1117',
         conhecimentos: "#161B23",
-        experiencia: "#262D38"
+        experiencia: "#262D38",
+        educacao: "#3D4652"
       }
     },
   },

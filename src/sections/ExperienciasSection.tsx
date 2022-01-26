@@ -28,6 +28,7 @@ export const ExperienciasSection = () => {
                                 icon={<WorkIcon />}
                             >
                                 <h3 className="vertical-timeline-element-title">Desenvolvedor WEB PHP</h3>
+                                <h4 className="vertical-timeline-element-subtitle">dez. de 2019 à dez. de 2020</h4>
                                 <h4 className="vertical-timeline-element-subtitle">São Paulo, SP</h4>
                                 <h4 className="vertical-timeline-element-subtitle">Jl Seguros</h4>
                                 <p>
