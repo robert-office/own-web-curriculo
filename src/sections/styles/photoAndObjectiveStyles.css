@@ -1,0 +1,10 @@
+#objctiveSection::before {
+    content: ""; 
+    display: block;
+    width: 100%; 
+    height: 150px;
+    background-color: #0D1117;
+    position: absolute; 
+    bottom: -50px; 
+    left: 0;
+}

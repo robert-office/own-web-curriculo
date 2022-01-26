@@ -10,7 +10,8 @@ module.exports = {
         ...colors,
         cinza: "#8B949E",
         bodyHeadeer: "#161B22",
-        objtivos: '#0D1117'
+        objtivos: '#0D1117',
+        conhecimentos: "#161B23"
       }
     },
   },

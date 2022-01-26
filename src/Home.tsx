@@ -1,4 +1,4 @@
-import React from 'react';
+import { ConhecimentosSection } from './sections/ConhecimentosSection';
 import { Header } from './sections/Header';
 import { ObjetivosSection } from './sections/ObjetivosSection';
 
@@ -7,6 +7,7 @@ function Home() {
     <>
     <Header/>
     <ObjetivosSection/>
+    <ConhecimentosSection/>
     </>
   );
 }
