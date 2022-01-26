@@ -17,7 +17,7 @@ export const PhotoAndObjectiveSection = () => {
                 </div>
                 <div className="w-full h-full flex justify-center lg:justify-start px-2">
                     <Typography variant="h6" className="text-cinza lg:text-left text-center" component="h6">
-                        Estarei a disposição da empresa para aprender novas técnologias, neste 2022 estou conhecendo vários frameworks para aperfeiçoar meus
+                        Estarei à disposição da empresa para aprender novas tecnologias, neste 2022 estou conhecendo vários frameworks para aperfeiçoar meus
                         conhecimentos, dentre eles, o Framework de Frontend ReactJs, e para
                         Backend o Framework Laravel.
                         No geral, meu objetivo é me realocar no mercado de trabalho,

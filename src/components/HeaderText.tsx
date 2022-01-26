@@ -1,13 +1,16 @@
 import { Typography } from "@mui/material";
 
-interface HeaderText {
-    text: string
+interface HeaderTextP {
+    text: string;
+    href?: string
 }
 
-export const HeaderText = ({ text }: HeaderText) => {
+export const HeaderText = ({ text, href }: HeaderTextP) => {
     return (
-        <Typography variant="h6" color={'white'} component="h6">
-            {text}
-        </Typography>
+        <a href={href}>
+            <Typography variant="h6" color={'white'} component="h6">
+                {text}
+            </Typography>
+        </a>
     );
 }

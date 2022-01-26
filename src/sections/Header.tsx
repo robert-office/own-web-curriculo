@@ -15,7 +15,7 @@ export const Header = () => {
                     <div className="flex items-center flex-no-shrink text-white mr-6">
                         <button className="text-white">
                             <span className="text-2xl pl-2">
-                                <i/> Robert Curriculo
+                                <i /> Robert Curriculo
                             </span>
                         </button>
                     </div>
@@ -34,19 +34,19 @@ export const Header = () => {
                     >
                         <ul className="lg:flex flex-col lg:flex-row justify-center lg:justify-end flex-1 items-center lg:space-x-10 space-x-0 lg:space-y-0 space-y-10">
                             <li className="text-center">
-                                <HeaderText text="Objetivos" />
+                                <HeaderText href="#objctiveSection" text="Objetivos" />
                             </li>
                             <li className="text-center">
-                                <HeaderText text="Conhecimentos" />
+                                <HeaderText href="#conhecimentoSection" text="Conhecimentos" />
                             </li>
                             <li className="text-center">
-                                <HeaderText text="Educação" />
+                                <HeaderText href="#educacaoSection" text="Educação" />
                             </li>
                             <li className="text-center">
-                                <HeaderText text="Experiências" />
+                                <HeaderText href="#ExperienciasSection" text="Experiências" />
                             </li>
                             <li className="text-center">
-                                <HeaderText text="Projetos" />
+                                <HeaderText href="#ProjetosSection" text="Projetos" />
                             </li>
                         </ul>
                     </div>

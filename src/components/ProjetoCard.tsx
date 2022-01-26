@@ -42,13 +42,13 @@ export default function ProjetoCard(props: Props) {
             </CardContent>
             <CardActions>
                 {props.href && (
-                    <a href={props.href} target={'_blank'}>
+                    <a href={props.href} rel="noreferrer" target={'_blank'}>
                         <Button size="small">Ver GitHub</Button>
                     </a>
                 )}
 
                 {props.hospedado && (
-                    <a href={props.hospedado} target={'_blank'}>
+                    <a href={props.hospedado} rel="noreferrer" target={'_blank'}>
                         <Button size="small">Ver Hospedado</Button>
                     </a>
                 )}
