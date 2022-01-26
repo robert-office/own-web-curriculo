@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1eb22b26.css",
-    "main.js": "/static/js/main.834806a3.js",
-    "static/js/787.4317c40e.chunk.js": "/static/js/787.4317c40e.chunk.js",
-    "static/media/landing.gif": "/static/media/landing.e868ac2c8afab32d47de.gif",
-    "static/media/eu.jpg": "/static/media/eu.115a9a1516c9820fb7a3.jpg",
-    "static/media/bootstrap.png": "/static/media/bootstrap.5761cfc5a0bbb4eff91c.png",
-    "static/media/tailwind.png": "/static/media/tailwind.36b2728bf0d14b7b7576.png",
-    "static/media/html-css.png": "/static/media/html-css.88394d859e2bed67db5b.png",
-    "static/media/typescript.png": "/static/media/typescript.c4105801aadf2606ac30.png",
-    "static/media/laravel.png": "/static/media/laravel.8b2939ca7ad8851c40a2.png",
-    "static/media/react.png": "/static/media/react.6efc13da8f8f86b2387a.png",
-    "static/media/php.png": "/static/media/php.18c9d7586aafbdf5425e.png",
-    "index.html": "/index.html",
-    "main.1eb22b26.css.map": "/static/css/main.1eb22b26.css.map",
-    "main.834806a3.js.map": "/static/js/main.834806a3.js.map",
-    "787.4317c40e.chunk.js.map": "/static/js/787.4317c40e.chunk.js.map"
+    "main.css": "/github-page/static/css/main.1eb22b26.css",
+    "main.js": "/github-page/static/js/main.228d967c.js",
+    "static/js/787.4317c40e.chunk.js": "/github-page/static/js/787.4317c40e.chunk.js",
+    "static/media/landing.gif": "/github-page/static/media/landing.e868ac2c8afab32d47de.gif",
+    "static/media/eu.jpg": "/github-page/static/media/eu.115a9a1516c9820fb7a3.jpg",
+    "static/media/bootstrap.png": "/github-page/static/media/bootstrap.5761cfc5a0bbb4eff91c.png",
+    "static/media/tailwind.png": "/github-page/static/media/tailwind.36b2728bf0d14b7b7576.png",
+    "static/media/html-css.png": "/github-page/static/media/html-css.88394d859e2bed67db5b.png",
+    "static/media/typescript.png": "/github-page/static/media/typescript.c4105801aadf2606ac30.png",
+    "static/media/laravel.png": "/github-page/static/media/laravel.8b2939ca7ad8851c40a2.png",
+    "static/media/react.png": "/github-page/static/media/react.6efc13da8f8f86b2387a.png",
+    "static/media/php.png": "/github-page/static/media/php.18c9d7586aafbdf5425e.png",
+    "index.html": "/github-page/index.html",
+    "main.1eb22b26.css.map": "/github-page/static/css/main.1eb22b26.css.map",
+    "main.228d967c.js.map": "/github-page/static/js/main.228d967c.js.map",
+    "787.4317c40e.chunk.js.map": "/github-page/static/js/787.4317c40e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1eb22b26.css",
-    "static/js/main.834806a3.js"
+    "static/js/main.228d967c.js"
   ]
 }
