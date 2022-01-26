@@ -8,7 +8,9 @@ module.exports = {
     extend: {
       colors: {
         ...colors,
-        cinza: "#C9D1D9"
+        cinza: "#8B949E",
+        bodyHeadeer: "#161B22",
+        objtivos: '#0D1117'
       }
     },
   },
